@@ -2,6 +2,6 @@
 
 WebApp for managing billable hours on different projects
 
-Features:
+## Features:
 
 - Order Form Management
