@@ -2,6 +2,19 @@
 
 WebApp for managing billable hours on different projects
 
-## Features:
+## Modules:
 
-- Order Form Management
+- Orders Module
+- Tasks Module
+- BillableHours Module
+- Tickets Module
+- Clients Module
+- Contacts Module
+
+### Orders Module
+
+#### Use Case
+
+- Views
+  - Billable Hours per Order Form
+  - Billable Hours per Task
